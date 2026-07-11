@@ -1,5 +1,5 @@
 ---
-name: F&D Intelligence Retail Engine
+name: S&S Intelligence Retail Engine
 colors:
   surface: '#0b0e14'
   surface-dim: '#10131a'

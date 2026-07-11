@@ -22,7 +22,7 @@ def inject_styles():
 
 def render_sidebar(df):
     with st.sidebar:
-        st.markdown("<div class='side-brand'><b>F&D Intelligence</b><span>Retail Synthesis Engine</span></div>", unsafe_allow_html=True)
+        st.markdown("<div class='side-brand'><b>S&S Intelligence</b><span>Retail Synthesis Engine</span></div>", unsafe_allow_html=True)
         st.page_link("app.py", label="Intelligence Home")
         st.page_link("pages/1_Sales_Overview.py", label="Sales Overview")
         st.page_link("pages/2_Forecast_Explorer.py", label="Forecast Explorer")
